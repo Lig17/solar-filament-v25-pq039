@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.log
+*.aux
+*.out
+*.bbl
+*.blg
+.DS_Store
+# Model checkpoint files are provided by their legitimate owners; add with git lfs after hash verification.

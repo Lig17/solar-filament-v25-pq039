@@ -1,0 +1,13 @@
+{
+  "gpu_peak_allocated_gib": 0.91,
+  "all_variant_scenes_seconds_total": 1444.845933644999,
+  "mean_all_variants_s_per_scene": 13.892749361971143,
+  "parameter_counts": {
+    "portable_global_m": 22359987,
+    "portable_native_m": 22359987,
+    "V24_refiner": 13752897,
+    "V25_curve_proposer": 990451,
+    "V25_real_refiner": 13752897
+  },
+  "caveat": "Timing includes shared predictor caching and component ablations. NOT a pure single-model inference latency benchmark."
+}

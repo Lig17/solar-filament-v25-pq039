@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this analysis, cite the accompanying report and the MAGFiLO dataset."
+title: "Quality-Aware Multiscale Instance Segmentation and Selective Mask Refinement for Solar Filament Delineation"
+type: software
+authors:
+  - family-names: Rathika
+    given-names: Lighittha Pappusamy
+  - family-names: Selvakumar
+    given-names: Prithivraj
+date-released: 2026-11-02
+license: MIT
+keywords:
+  - solar filaments
+  - instance segmentation
+  - MAGFiLO
+  - panoptic quality

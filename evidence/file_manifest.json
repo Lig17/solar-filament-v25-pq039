@@ -1,0 +1,285 @@
+{
+  "files": [
+    {
+      "file": "evidence/MANUSCRIPT_EVIDENCE_README.md",
+      "sha256": "0c76c337534de304b012492b90afc2f9cf490d4ecfa0f07a0e57e7ba0ddd344d",
+      "size_bytes": 3005
+    },
+    {
+      "file": "evidence/V25_EXACT_PUBLIC_039.csv",
+      "sha256": "ac470fbfa0e2ca5f2d8a654d6c6bbaf549dd8980d040963ed8ba4821dc9ac329",
+      "size_bytes": 308423
+    },
+    {
+      "file": "evidence/ablation_progress.jsonl",
+      "sha256": "c6b65e52332f534f6d675b71035fb0dd78419dbf2fe4e24ea33caa44cab23f99",
+      "size_bytes": 6620
+    },
+    {
+      "file": "evidence/environment_and_checkpoints.json",
+      "sha256": "9b6f43fa321a71154afd675617d3c2fb5b78501ca82fdd4fe69409d3477827da",
+      "size_bytes": 1830
+    },
+    {
+      "file": "evidence/full_ranker_calibration_scores.npz",
+      "sha256": "c9506eab6f6ea1ddd34b3213af31c31a55aab5f7cf7406851a8a18cb494ea37d",
+      "size_bytes": 6351
+    },
+    {
+      "file": "evidence/historical_public_provenance.json",
+      "sha256": "a78b13e0437c4c2961316697907080382e86e0e6a48a20d7bd55dae91b6a17b6",
+      "size_bytes": 495
+    },
+    {
+      "file": "evidence/resource_report.json",
+      "sha256": "a95bfa888ad94f4f48e6ce0ff508f523dee8b71d07b89cdb1deaa01c2a667741",
+      "size_bytes": 477
+    },
+    {
+      "file": "evidence/test_regeneration_not_executed.txt",
+      "sha256": "c96038d01e6d3914573c333cbdd8c8ee316cc0f817e826a5a0a262a621680d42",
+      "size_bytes": 126
+    },
+    {
+      "file": "figures/Fig00_frozen_V25_pipeline_schematic.pdf",
+      "sha256": "ad6cf9dc081c27c0fe0c7a5cb67872f8bcbb69651848ae25652fa0fb02277814",
+      "size_bytes": 18199
+    },
+    {
+      "file": "figures/Fig00_frozen_V25_pipeline_schematic.png",
+      "sha256": "ce8a2b1b3d8dc58083e8aa1a665c1c64636acbb92cdd25eaac19ba53dd71ac9e",
+      "size_bytes": 93563
+    },
+    {
+      "file": "figures/Fig01_V25_component_ablation_PQ.pdf",
+      "sha256": "1fef31fe8519133d6df969d10365a991b65f6f5582b65bb2de83233fb04ed40c",
+      "size_bytes": 15886
+    },
+    {
+      "file": "figures/Fig01_V25_component_ablation_PQ.png",
+      "sha256": "46ecc4715930441d0bf10b8878990eef73be9f5bb6ffe07545f495fae0db8c77",
+      "size_bytes": 133074
+    },
+    {
+      "file": "figures/Fig02_component_PQ_deltas_CI.pdf",
+      "sha256": "d1d6f5df50aa875e27a411c8f772c98e6b6d975e8de8788c5461f2dac843dc43",
+      "size_bytes": 18542
+    },
+    {
+      "file": "figures/Fig02_component_PQ_deltas_CI.png",
+      "sha256": "ae6ca869f20c2d1f9de12bc0c7618736e440271b1244ab9e82d17dc0b49bc467",
+      "size_bytes": 148996
+    },
+    {
+      "file": "figures/Fig03_V25_instance_size_recall.pdf",
+      "sha256": "0e0fe0c39c723e40d36787ba3e25d7a1ba7e8bcc64c2eb03011345ef5d11b0ad",
+      "size_bytes": 15002
+    },
+    {
+      "file": "figures/Fig03_V25_instance_size_recall.png",
+      "sha256": "4ff197fd819e1ae84ce9abf463f1e246465b3093a2d2fbdd825b8a7315371277",
+      "size_bytes": 80343
+    },
+    {
+      "file": "figures/Fig04_expert_agreement.pdf",
+      "sha256": "76a94238c08560f5efb85bb097339fa4de1c120df2bca1cc49540449e72e2cd2",
+      "size_bytes": 13982
+    },
+    {
+      "file": "figures/Fig04_expert_agreement.png",
+      "sha256": "bbf27509f9bbf411078eeead1ad742aa74d142cc31906389252817bab218a206",
+      "size_bytes": 43872
+    },
+    {
+      "file": "figures/Fig05_retrained_ranker_feature_ablation.pdf",
+      "sha256": "1da8d768ca3e89adcbaa4c1f7fb82f6f778bd2e16b8da388d34eba1af6e77151",
+      "size_bytes": 18395
+    },
+    {
+      "file": "figures/Fig05_retrained_ranker_feature_ablation.png",
+      "sha256": "1055d703cc349ceec318098f4e5ab7dc4a9ce9f8e29d8e3c4146927907fa8a00",
+      "size_bytes": 75434
+    },
+    {
+      "file": "figures/Fig06_ranker_reliability.pdf",
+      "sha256": "722eeae56960230c4497e7976641c25350c03d9376ad35ff1c51ddc9581db51c",
+      "size_bytes": 15796
+    },
+    {
+      "file": "figures/Fig06_ranker_reliability.png",
+      "sha256": "490dc6d1f44fb8a074c24a2a76e9bfe6ecf3ec50724ca383c47a7ca552bed5eb",
+      "size_bytes": 85092
+    },
+    {
+      "file": "figures/Fig07_case_01_20210329015250Uh.pdf",
+      "sha256": "ab054c1142c380a66d97b007af52244f22d64c0197928fdfa903b41a87158112",
+      "size_bytes": 224472
+    },
+    {
+      "file": "figures/Fig07_case_01_20210329015250Uh.png",
+      "sha256": "81b056a33f692c0ece8e392491ce7aabac441c3b4c25afd40407b23723736cb7",
+      "size_bytes": 517621
+    },
+    {
+      "file": "figures/Fig07_case_02_20210626060050Uh.pdf",
+      "sha256": "2529f8bb55c14c4710e5405935c0c7750dae29c6c32d7b086317d92c71862272",
+      "size_bytes": 255220
+    },
+    {
+      "file": "figures/Fig07_case_02_20210626060050Uh.png",
+      "sha256": "41f1f30a38eff00ef8cd3388d260f9522b8de8c9280637e057e85e210a653f67",
+      "size_bytes": 511062
+    },
+    {
+      "file": "figures/Fig07_case_03_20181024232430Lh.pdf",
+      "sha256": "95176cba4ce96f15de28c13f9d6bca845d0dded2b676aecef90042d13ba7442a",
+      "size_bytes": 316383
+    },
+    {
+      "file": "figures/Fig07_case_03_20181024232430Lh.png",
+      "sha256": "b87e5c17df42c3d6d76782bfdf70aefbf72f21ae2164bd08116f902608f3d245",
+      "size_bytes": 586737
+    },
+    {
+      "file": "figures/Fig07_case_04_20170801164710Mh.pdf",
+      "sha256": "2047ac7f287f609e907bd5cf6ae176c677f9acbc5ec2e650662b1547bea3b6de",
+      "size_bytes": 323701
+    },
+    {
+      "file": "figures/Fig07_case_04_20170801164710Mh.png",
+      "sha256": "ff0cf805d5317409692b92da5a0e26fb63c697a379c30d15fa0991d854912cd7",
+      "size_bytes": 590518
+    },
+    {
+      "file": "figures/Fig07_case_05_20131206084114Th.pdf",
+      "sha256": "dfa4b1dad842d5eb94ad2539591d3e92670949c85761f301028ca30123ad30d7",
+      "size_bytes": 317458
+    },
+    {
+      "file": "figures/Fig07_case_05_20131206084114Th.png",
+      "sha256": "a39686d2c2533176864a9d281dd004f72a273f7c7d8a6b9eb645708d48c40292",
+      "size_bytes": 572057
+    },
+    {
+      "file": "figures/Fig07_case_06_20120715123434Ch.pdf",
+      "sha256": "3765b7694f4239ad9f37d995f71cfc02e13bc3f438ea558cbffba49cb5da6185",
+      "size_bytes": 309595
+    },
+    {
+      "file": "figures/Fig07_case_06_20120715123434Ch.png",
+      "sha256": "c9c3869dec87254efa86a753acedfe430c307cc02813f8c0b4e5a2b6f1686c4c",
+      "size_bytes": 569735
+    },
+    {
+      "file": "figures/Fig07_case_07_20110902073614Th.pdf",
+      "sha256": "08897fc715db929c5cb658386cc67df8312a9ee35c1fea7ade06773826b13f1f",
+      "size_bytes": 325187
+    },
+    {
+      "file": "figures/Fig07_case_07_20110902073614Th.png",
+      "sha256": "8023bc31eccb30f4c1eb9779b1a73da6356c7b0589a78c5404d7fc9d496523cc",
+      "size_bytes": 596209
+    },
+    {
+      "file": "figures/Fig07_case_08_20161210133714Th.pdf",
+      "sha256": "7e560a0277a07760457e4b58580fbdadf23ac759e097f616fc362ecb4f5cbc1b",
+      "size_bytes": 279967
+    },
+    {
+      "file": "figures/Fig07_case_08_20161210133714Th.png",
+      "sha256": "f3d1518f2ed67d858d1cc61e3238c464827144247ac462d8f97e77068d8e374a",
+      "size_bytes": 536533
+    },
+    {
+      "file": "tables/PAPER_MAIN_TABLE.csv",
+      "sha256": "98b23b6c33a27ab2736a0df86432897893c29bb211b602998fcec8f0d062436b",
+      "size_bytes": 1354
+    },
+    {
+      "file": "tables/PAPER_MAIN_TABLE.tex",
+      "sha256": "615cafcc2e568ac5e6b411fdeb7a6b6f8085a65b87cb7733a1179ae29c1d8bd2",
+      "size_bytes": 1063
+    },
+    {
+      "file": "tables/Table01_same_scene_component_ablation.csv",
+      "sha256": "1532d7f2b6395a3958729b9a371bebda0228965734e5a6d161e7fcd920143e99",
+      "size_bytes": 3610
+    },
+    {
+      "file": "tables/Table01_same_scene_component_ablation.tex",
+      "sha256": "5749235d553dc2897cee4ba651347151bf473e0b6da754d222691e87be25be35",
+      "size_bytes": 3083
+    },
+    {
+      "file": "tables/Table02_paired_day_bootstrap.csv",
+      "sha256": "f5e6db31761c634bb11e7d6a5c67e31c9efbfb8ce5e2042a9d0dc5b96df6c38a",
+      "size_bytes": 1926
+    },
+    {
+      "file": "tables/Table02_paired_day_bootstrap.tex",
+      "sha256": "94a637505f2dc1a4496d00a55ed0ae66b08d07545a73ed3a50c95e540b7471fe",
+      "size_bytes": 1750
+    },
+    {
+      "file": "tables/Table03_inter_annotator_agreement.csv",
+      "sha256": "4d9eb975797260a1a57c8e1f9f2020a625add51693053dc2d4f9aabd42c72c84",
+      "size_bytes": 2818
+    },
+    {
+      "file": "tables/Table04_instance_size_recall.csv",
+      "sha256": "a12a08e0d1c4caab402c32a96bceff902944493c75d2eeea10fa4212cd30f9a8",
+      "size_bytes": 51454
+    },
+    {
+      "file": "tables/Table04_size_recall_summary.csv",
+      "sha256": "4a7a8e724d9e7e15746b85ca4f4a2168880b2dc48bd46e0beba6848d7640907e",
+      "size_bytes": 240
+    },
+    {
+      "file": "tables/Table05_overlap_multiplicity.csv",
+      "sha256": "9b599b2eca4bb99be1462bef9e58d21d40d363485e217b53a1a3ad2ced4d3809",
+      "size_bytes": 7761
+    },
+    {
+      "file": "tables/Table06_feature_group_per_scene.csv",
+      "sha256": "0704f1ef6aa3342d65a07b09c8572e174b9d73bb5f5d3f5a2861d85bf3637a97",
+      "size_bytes": 64658
+    },
+    {
+      "file": "tables/Table06_retrained_feature_group_ablation.csv",
+      "sha256": "a11e5fedf61c855cb7bd364822f1f25833e98c5893c0cf2ce1b131b75e4403aa",
+      "size_bytes": 1620
+    },
+    {
+      "file": "tables/Table06_seed_summary.csv",
+      "sha256": "371f64bda8af50f0d7bcc811fd174b2ae74b2ecfa3c2cb83df5a04d4197f71c6",
+      "size_bytes": 532
+    },
+    {
+      "file": "tables/Table07_ranker_reliability.csv",
+      "sha256": "63861dbf6db6c1dcd489e1e2ebc9bb8b4b648a314efdadfa4bbd052bc193d7ea",
+      "size_bytes": 453
+    },
+    {
+      "file": "tables/Table09_parameter_counts.csv",
+      "sha256": "1aa0f29ffefb77db7d4c4193c218a095496364d3c319d831546d24a6a93455ca",
+      "size_bytes": 212
+    },
+    {
+      "file": "tables/Table_expert_version_counts.csv",
+      "sha256": "9aefceec43541b734a5f98298c638b9479977512f05bab59cf488bfe4516ab33",
+      "size_bytes": 70699
+    },
+    {
+      "file": "tables/Table_pipeline_runtime_seconds.csv",
+      "sha256": "792e1b6522337084131f86b7f19aad8e76769b17e53ad76216905a1ea723bd50",
+      "size_bytes": 4042
+    },
+    {
+      "file": "tables/Table_scene_level_all_component_ablations.csv",
+      "sha256": "8cc3f99eddf64d3039e6f33a40c6b60f7e1808f97e2b144b45a35af0f32f575d",
+      "size_bytes": 142713
+    }
+  ],
+  "generated_utc": "2026-11-01T17:29:47.118713+00:00"
+}

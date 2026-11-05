@@ -1,0 +1,37 @@
+[
+  {
+    "file": "SOLAR_V24_REFINER_BEST.pt",
+    "sha256": "43a3f7038f7d5ddae74b9f03fd9b1c08b3ed351b6ea6afe36395c261f46c4327",
+    "size_bytes": 55111445
+  },
+  {
+    "file": "SOLAR_V24_INSTANCE_QUALITY.joblib",
+    "sha256": "3d378645386d6edbb90dd30ebf04895f6fcde4239ea73a929d8e91e82d8581ea",
+    "size_bytes": 156150
+  },
+  {
+    "file": "SOLAR_V25_REAL_REFINER_BEST.pt",
+    "sha256": "6331d457b1993d24078d6c48a925ce96b7474cdaf1b27c32387a781d43ac9a42",
+    "size_bytes": 55112271
+  },
+  {
+    "file": "SOLAR_V25_CURVE_BEST.pt",
+    "sha256": "caf0804b315dc85a4f6e58d003f4985999eb36edf7f48fe16ee11f6ac5d77396",
+    "size_bytes": 3996877
+  },
+  {
+    "file": "SOLAR_V25_EXTENDED_QUALITY.joblib",
+    "sha256": "cd230a30aedd2418d7ac782b391edf95c56c0dbc79c011d16a85c5e40ba5bf2b",
+    "size_bytes": 3241738
+  },
+  {
+    "file": "portable_global_m_best.pt",
+    "sha256": "73fd3f3a493136881ca8fd0e6dc03f5406714b0c19d3ab1bbc077f3c8b373935",
+    "size_bytes": 45402358
+  },
+  {
+    "file": "portable_native_m_best.pt",
+    "sha256": "1a932d28e5902f5cfd9399e036d66c8ce56ce16f1b4d99321fd244df7df319a6",
+    "size_bytes": 45234422
+  }
+]

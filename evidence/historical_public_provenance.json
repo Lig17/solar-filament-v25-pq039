@@ -1,0 +1,10 @@
+{
+  "confirmed_public_score": 0.39,
+  "public_score_source": "historical user-reported Kaggle V25 public leaderboard",
+  "original_csv_sha256": "ac470fbfa0e2ca5f2d8a654d6c6bbaf549dd8980d040963ed8ba4821dc9ac329",
+  "original_csv_source": "/kaggle/input/datasets/lighittha/v25ftss/SOLAR_V25_ALL_PREDICTIONS_AND_REPORTS/submissions/V25_REAL_REFINE_PLUS_QUALITY.csv",
+  "instance_rows": 1093,
+  "test_scene_count": 180,
+  "reconstructed_csv_is_not_public_scored": true,
+  "test_labels_used": false
+}

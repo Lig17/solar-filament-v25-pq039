@@ -1,0 +1,1 @@
+RUN_TEST_REPRODUCTION=False. Exact original V25 public-scored CSV SHA verified; independent reconstruction parity not tested.
